@@ -1,20 +1,4 @@
-<DOCTYPE html>
-    <html>
-    <head>
-        <meta charset="utf-8">
-        <Title>How to make eggless pancakes </Title>
-
-    </head>
-    <body>
-    <div>
-        <h2>How to make Eggless Pancakes</h2>
-        <h4>Ingregients:</h4>
-        <table>
-            <tr>
-                <td><img src="./download.jpg"></td>
-                <td>
-                    <ul>
-                        <li>1 Cup All Purpose Flour
+<li> Cup All Purpose Flour
 <li>1 Teaspoon Sugar
 <li>1/4 Teaspoon Ground Cinnamon
 <li>2 Teaspoons Baking Powder
@@ -25,15 +9,6 @@
 <li>1 Teaspoon Vanilla Extract
 <li>2 Tablespoons Butter
 
-                    </ul>
-                </td>
-            </tr>
-        </table>
-        <h4>Instructions:</h4>
-        <table>
-            <tr>
-                <td>
-                    <ul>
 
 <li>Whisk together the dry ingredients.
 <li>In a liquid measuring mug, measure 1 cup milk. To that add the vegetable oil, water and vanilla extract.
@@ -42,13 +17,3 @@
 <li>Add the melted butter to the pancake batter and return the pan to the stove. Mix the butter into the batter.
 <li>When the pan is hot enough, pour a ladleful of batter on the pan for each pancake. Cook until bubbles appear on the face of the pancake.
 <li>Carefully flip the pancake and cook until its golden brown.
-
-                    </ul>
-                </td>
-            </tr>
-        </table>
-    </div>
-
-    </body>
-
-    </html>
