@@ -1,0 +1,29 @@
+h2{
+    color: deeppink;
+    font-size: xx-large;
+}
+h4{
+    color: aqua;
+}
+table.ingredients{
+    color: aliceblue;
+    font-style: italic;
+}
+table.Instructions{
+    color: aliceblue;
+    font-style: normal;
+}
+div{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
+div.background{
+    background-color: black;
+    background-image: url("maplesyrup1.jpg");
+    background-repeat:no-repeat;
+    background-position-x: right;
+    background-position-y: bottom;
+
+}
